@@ -13,4 +13,4 @@ This repository contains a setup of the framework for annotation based on Docann
 3. Next you also have to create seperate projects for each of the annotators here https://xxx.herokuapp.com/ (Project name can be "Annotation_Task_y" y being the name of the annotator and  Annotation_Task being the name of project. With each of the project you also write the annotation guidelines.
 4. Finally you can add each of the annotators to their project in this url https://xxx.herokuapp.com/admin/api/project/ by adding the annotator to their projects
 
-:green_circle: :green_circle: **Setup complete** :green_circle::green_circle:
+:green_circle: :green_circle: **Setup complete** :green_circle: :green_circle:
